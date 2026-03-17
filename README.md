@@ -11,10 +11,7 @@ My research in a nutshell: **I'm a car therapist🪴.**
 
 - **AI**: Building a system so smart, even Reviewer #2 can't argue with it.
 
-Fueled by the daily question, *"Professor, are we sure this is gonna work?"* If you get it, let's connect. We can cry over coffee together.
-
-🎓 Ph.D. (Hopefully) Student @ Inha University 🔬 Advisor: Prof. Hakil Kim
-
+🎓 Ph.D. Student @ Inha University 
 📩 Email: kka-na@inha.edu
 
 🏫 Lab: vision.inha.ac.kr
