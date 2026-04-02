@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Kana. Status: Surviving.
 
-A Ph.D. student at Inha University, my journey began with my advisor👨‍🏫's fateful words: *"Let's try this..."* 
-Now, I'm powered by coffee☕, the faint hope😩 of graduation, and my advisor's... guidance.
+A Ph.D. student at Inha University, 
+Now, I'm powered by coffee☕, the faint hope😩 of graduation, 
 
 My research in a nutshell: **I'm a car therapist🪴.**
 
